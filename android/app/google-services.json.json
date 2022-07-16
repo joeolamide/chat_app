@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109039421611",
+    "project_id": "afrique-chat",
+    "storage_bucket": "afrique-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109039421611:android:a7f816de3e71cce9284fee",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109039421611-7hb0kof0m9np6m34httdp9ld9jtqsv67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVnq7FfSR2xjFaDIDu29jTxIA7YQTw0e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109039421611-7hb0kof0m9np6m34httdp9ld9jtqsv67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
